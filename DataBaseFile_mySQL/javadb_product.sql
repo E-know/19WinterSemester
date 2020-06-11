@@ -1,0 +1,10 @@
+INSERT INTO javadb.product (PrCode, PrName, PrPrice, PrNumber, PrIngredient) VALUES (1001, '돈가스', 100, 0, '101-200/104-10/108-50');
+INSERT INTO javadb.product (PrCode, PrName, PrPrice, PrNumber, PrIngredient) VALUES (1002, '치킨가스', 200, 0, '102-500/104-10/108-50');
+INSERT INTO javadb.product (PrCode, PrName, PrPrice, PrNumber, PrIngredient) VALUES (1003, '김치우동', 300, 0, '105-100/106-300/109-30');
+INSERT INTO javadb.product (PrCode, PrName, PrPrice, PrNumber, PrIngredient) VALUES (1004, '만두국', 400, 0, '101-100/108-80/110-80');
+INSERT INTO javadb.product (PrCode, PrName, PrPrice, PrNumber, PrIngredient) VALUES (1005, '오믈렛', 500, 0, '104-100/107-300/110-30');
+INSERT INTO javadb.product (PrCode, PrName, PrPrice, PrNumber, PrIngredient) VALUES (1006, '볶음밥', 600, 0, '107-300/109-50/110-50');
+INSERT INTO javadb.product (PrCode, PrName, PrPrice, PrNumber, PrIngredient) VALUES (1007, '비빔밥', 700, 0, '101-30/104-30/107-300');
+INSERT INTO javadb.product (PrCode, PrName, PrPrice, PrNumber, PrIngredient) VALUES (1008, '불고기', 800, 0, '101-250/107-250/109-200');
+INSERT INTO javadb.product (PrCode, PrName, PrPrice, PrNumber, PrIngredient) VALUES (1009, '소금구이덮밥', 900, 0, '103-100/104-30/107-250');
+INSERT INTO javadb.product (PrCode, PrName, PrPrice, PrNumber, PrIngredient) VALUES (1010, '육회비빔밥', 1000, 0, '103-100/107-300/110-40');

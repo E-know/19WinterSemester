@@ -1,0 +1,1 @@
+INSERT INTO javadb.money (Expense, Income, Total) VALUES (0, 2500, 2500);
